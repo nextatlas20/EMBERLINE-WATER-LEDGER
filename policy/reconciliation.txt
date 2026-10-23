@@ -1,0 +1,4 @@
+EMBERLINE SEALED POLICY
+Cutoff: 2155-08-01T23:59:59Z
+A transfer may not take a cistern below reserve or above capacity.
+The task request is the normative validation and publication specification.
