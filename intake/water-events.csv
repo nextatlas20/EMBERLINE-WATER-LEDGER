@@ -1,0 +1,19 @@
+event_id,cistern_id,occurred_at,delta_liters,operator,note
+EV-005,CT-204,2155-08-01T12:00:00Z,250,Inez,delivery
+EV-001,CT-101,2155-08-01T08:00:00Z,200,Arun,tanker delivery
+EV-011,CT-317,2155-08-01T18:00:00Z,-50,Mara,duplicate first
+EV-009,CT-999,2155-08-01T09:30:00Z,100,Sol,unknown cistern
+EV-003,CT-317,2155-08-01T10:00:00Z,-350,Mara,kitchen issue
+EV-X,CT-101,2155-08-01T10:30:00Z,40,Arun,bad event id
+EV-014,CT-450,2155-02-30T14:00:00Z,20,Uma,impossible date
+EV-002,CT-204,2155-08-01T09:00:00Z,-180,Inez,cleaning draw
+EV-007,CT-317,2155-08-01T14:00:00Z,500,Mara,tanker delivery
+EV-012,CT-204,2155-08-01T13:30:00Z,+050,Inez,noncanonical delta
+EV-004,CT-450,2155-08-01T11:00:00Z,350,Uma,delivery
+EV-010,CT-101,2155-08-02T00:00:00Z,-25,Arun,after cutoff
+EV-008,CT-450,2155-08-01T15:00:00Z,-100,Uma,meal service
+EV-013,CT-317,2155-08-01T15:30:00Z,-25,,missing operator
+EV-006,CT-101,2155-08-01T13:00:00Z,-560,Arun,distribution request
+EV-011,CT-317,2155-08-01T18:30:00Z,-60,Mara,duplicate second
+EV-016,CT-204,2155-08-01T17:00:00Z,-400,Inez,clinic issue
+EV-015,CT-101,2155-08-01T16:00:00Z,-300,Arun,evening issue

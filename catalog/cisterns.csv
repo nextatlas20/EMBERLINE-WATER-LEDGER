@@ -1,0 +1,5 @@
+cistern_id,site,capacity_liters,opening_liters,reserve_liters
+CT-101,North Ridge,1000,600,250
+CT-204,Cedar Hall,750,300,150
+CT-317,River Annex,1200,900,400
+CT-450,Mesa School,500,200,100
